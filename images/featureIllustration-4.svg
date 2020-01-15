@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>featureIllustration-4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#72BDDA" offset="0%"></stop>
+            <stop stop-color="#E36AE5" offset="20.6239443%"></stop>
+            <stop stop-color="#697CB5" offset="52.7528505%"></stop>
+            <stop stop-color="#37497C" offset="79.8168285%"></stop>
+            <stop stop-color="#780071" offset="99.4906039%"></stop>
+        </linearGradient>
+        <path d="M74,28 C99.618669,28 120.825477,46.8894249 124.452453,71.5003053 L208,71.5 C208.779696,71.5 209.420449,72.0948881 209.493133,72.85554 L209.5,73 L209.5,213 C209.5,213.779696 208.905112,214.420449 208.14446,214.493133 L208,214.5 L74,214.5 C73.2203039,214.5 72.5795513,213.905112 72.5068666,213.14446 L72.5,213 L72.5002764,129.978372 C45.0274133,129.185002 23,106.66489 23,79 C23,50.8334778 45.8334778,28 74,28 Z M206.5,74.5 L124.804182,74.4998361 C124.933817,75.9826122 125,77.4835772 125,79 C125,106.664555 102.973121,129.184456 75.5007226,129.978343 L75.5,211.5 L206.5,211.5 L206.5,74.5 Z M140.5,104.5 C152.658462,104.5 162.5,114.581575 162.5,127 C162.5,136.134707 157.175006,144.005006 149.519821,147.528489 C165.386189,151.42389 177.220311,165.964256 177.495113,183.380143 L177.5,184 L174.5,184 C174.5,164.936867 159.491935,149.5 141,149.5 C122.692984,149.5 107.80051,164.629673 107.504491,183.429206 L107.5,184 L104.5,184 C104.5,166.545049 116.111239,151.864751 131.842886,147.689649 C123.993767,144.252193 118.5,136.278337 118.5,127 C118.5,114.581575 128.341538,104.5 140.5,104.5 Z M140.5,107.5 C130.014788,107.5 121.5,116.222465 121.5,127 C121.5,137.777535 130.014788,146.5 140.5,146.5 C150.985212,146.5 159.5,137.777535 159.5,127 C159.5,116.222465 150.985212,107.5 140.5,107.5 Z M74,31 C47.490332,31 26,52.490332 26,79 C26,105.509668 47.490332,127 74,127 C100.509668,127 122,105.509668 122,79 C122,52.490332 100.509668,31 74,31 Z M105.533503,61.9512697 L105.642189,62.0466806 C106.203055,62.5883031 106.25073,63.4613339 105.774622,64.0589921 L105.679211,64.1676779 L65.7363547,105.529716 L42.3578112,82.9533194 C41.7618906,82.3778455 41.7453152,81.4282427 42.320789,80.8323221 C42.8624115,80.2714557 43.7354423,80.2237808 44.3331005,80.699889 L44.4417863,80.7953 L65.6608964,101.287747 L103.521192,62.0837028 C104.062814,61.5228363 104.935845,61.4751615 105.533503,61.9512697 Z" id="path-2"></path>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.510956555   0 0 0 0 0.963824037  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-1.1%" y="-1.1%" width="102.1%" height="102.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.239783654 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="featureIllustration-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Fill" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>

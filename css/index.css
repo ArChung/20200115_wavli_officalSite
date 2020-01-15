@@ -1,0 +1,59 @@
+.mainContainer {
+    max-width: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.w-section {
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer-items .w-row {
+    height: 100%;
+}
+
+@media screen and (max-width: 991px) {
+    .sldierWrap {
+        position: relative;
+    }
+
+    .sldierWrap:before {
+        display: block;
+        content: "";
+        width: 100%;
+        padding-top: 60%;
+    }
+
+    .sldierWrap>.slider {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: auto;
+    }
+}
+
+.modal-wrapper .modal {
+    position: relative;
+}
+
+.modal-wrapper .modal .clozBtn {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-image: url('../images/cloz.png');
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+}
+
+.paySection .packages a {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+}

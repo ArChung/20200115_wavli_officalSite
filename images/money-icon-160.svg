@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="160px" viewBox="0 0 160 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>money-icon-160</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-16.960144%" y1="-25.4676819%" x2="101.644897%" y2="118.37616%" id="linearGradient-1">
+            <stop stop-color="#00FFFF" offset="0%"></stop>
+            <stop stop-color="#FF00B5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M80,27.2 C94.103375,27.2 107.362775,32.692025 117.335375,42.664625 C127.307769,52.637225 132.8,65.896625 132.8,80 C132.8,94.103375 127.307769,107.362775 117.335375,117.335375 C107.362775,127.307975 94.103375,132.8 80,132.8 C65.896625,132.8 52.637225,127.307975 42.664625,117.335375 C32.6922313,107.362775 27.2,94.103375 27.2,80 C27.2,65.896625 32.6922313,52.637225 42.664625,42.664625 C52.637225,32.692025 65.896625,27.2 80,27.2 Z M80.2007605,31.2007605 C53.1820304,31.2007605 31.2007605,53.1820304 31.2007605,80.2007605 C31.2007605,107.219491 53.1820304,129.20076 80.2007605,129.20076 C107.219491,129.20076 129.20076,107.219491 129.20076,80.2007605 C129.20076,53.1820304 107.219491,31.2007605 80.2007605,31.2007605 Z M78.4362065,50.6018633 C78.9796197,50.5895871 79.5230329,50.6018633 80.066446,50.6018633 C83.8209369,50.6018633 83.8209369,50.6018633 83.8332872,54.321561 C83.8456375,56.9609504 83.8456375,56.9732267 86.4886015,57.3783423 C88.5140506,57.6975242 90.4406972,58.2867833 92.3179427,59.1092907 C93.3430175,59.5635112 93.7382271,60.2755325 93.4171193,61.3558408 C92.9354577,62.9640269 92.5031972,64.5844893 91.9844846,66.1803992 C91.4904727,67.6903755 91.008811,67.9113476 89.5514757,67.2116025 C86.6244548,65.8121123 83.5492304,65.2228532 80.313452,65.3947205 C79.4736317,65.4438254 78.6461616,65.5543115 77.8557425,65.8980459 C75.0645749,67.1133927 74.6076138,70.1824502 76.9912215,72.0729896 C78.2015509,73.0305355 79.5724341,73.7180044 81.0050687,74.3072635 C83.4751286,75.3261906 85.969889,76.308289 88.3164458,77.5972931 C95.800727,81.7098302 97.8138258,91.0520412 92.5278978,97.4356808 C90.6259517,99.7436121 88.1558919,101.290417 85.2535716,102.076096 C83.9938411,102.41983 83.4257274,103.082747 83.4874789,104.384027 C83.5368801,105.660755 83.4751286,106.949759 83.4751286,108.226487 C83.4751286,109.368176 82.8946645,109.981988 81.758437,110.00654 C80.3752035,110.043369 78.9796197,110.043369 77.5963862,110.018817 C76.3737066,109.994264 75.8055928,109.306795 75.7932425,108.128277 C75.7808922,107.195284 75.7808922,106.250014 75.7685419,105.31702 C75.7438413,103.254614 75.6820898,103.16868 73.6813414,102.849498 C71.1248295,102.444383 68.6177188,101.8674 66.2711619,100.737987 C64.4309674,99.8418219 64.2333626,99.3876014 64.7644255,97.4725095 C65.159635,96.0484668 65.5548446,94.6244241 65.9994554,93.2126577 C66.5181679,91.5799191 66.9627787,91.3712232 68.4818655,92.1569019 C71.0754283,93.495011 73.829545,94.243861 76.7071647,94.5998717 C78.5720598,94.8331201 80.3875538,94.6489766 82.1042454,93.9001266 C85.3153231,92.5006363 85.8093351,88.8054911 83.1046196,86.5834935 C82.1906975,85.8223672 81.140922,85.2699369 80.0417454,84.7911639 C77.2258772,83.5512647 74.2865061,82.6182712 71.6311917,81.0346375 C67.3209374,78.4689054 64.579171,74.9456274 64.9002788,69.7282297 C65.2584374,63.8356393 68.6177188,60.1527702 74.0518504,58.1885734 C76.2996048,57.3783423 76.3119551,57.4151709 76.3243054,55.0826872 C76.3366557,54.2847323 76.3119551,53.4990536 76.3366557,52.7133749 C76.3860569,50.957874 76.6824641,50.6509682 78.4362065,50.6018633 Z" id="path-2"></path>
+        <filter x="-36.9%" y="-36.9%" width="173.9%" height="173.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.410019668 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-26.5%" y="-26.5%" width="153.0%" height="153.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="2" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="money-icon-160" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.579729353">
+        <g id="MoneyIcon160x160">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+        </g>
+    </g>
+</svg>
